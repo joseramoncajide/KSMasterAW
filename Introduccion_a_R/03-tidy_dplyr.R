@@ -5,7 +5,11 @@
 # DATA WRANGLING
 #############################################################################
 
+install.packages('tidyr')
+library(tidyr)
 
+install.packages('dplyr')
+library(dplyr)
 
 # datasets ----------------------------------------------------------------
 
@@ -18,8 +22,7 @@ pollution <- tbl_df(pollution)
 
 # dplyr -----------------------------------------------------------------------
 
-install.packages('dplyr')
-library(dplyr)
+
 
 # dplyr::select Extract existing variables
 
@@ -291,8 +294,7 @@ delays %>%
 
 # tidyr -----------------------------------------------------------------------
 
-install.packages('tidyr')
-library(tidyr)
+
 
 #Ejercicio: tidyr::gather()
 
