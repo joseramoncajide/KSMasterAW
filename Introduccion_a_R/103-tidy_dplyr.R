@@ -9,6 +9,12 @@
 #devtools::install_github("rstudio/EDAWR")
 #library(EDAWR)
 
+install.packages('tidyr')
+library(tidyr)
+
+install.packages('dplyr')
+library(dplyr)
+
 # datasets ----------------------------------------------------------------
 
 storms <- read.csv('data/storms.csv', sep = ',', stringsAsFactors = F)
@@ -19,9 +25,6 @@ pollution <- tbl_df(pollution)
 
 
 # dplyr -----------------------------------------------------------------------
-
-install.packages('dplyr')
-library(dplyr)
 
 # dplyr::select Extract existing variables
 
@@ -338,8 +341,6 @@ delays %>%
 
 # tidyr -----------------------------------------------------------------------
 
-install.packages('tidyr')
-library(tidyr)
 
 #Ejercicio: tidyr::gather()
 
