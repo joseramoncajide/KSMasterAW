@@ -5,7 +5,9 @@
 # Caso práctico de modelado con R y Google Analytics 
 #############################################################################
 
-#install.packages("RGA")
+rm(list= ls())
+
+install.packages("RGA")
 library("RGA")
 library("dplyr")
 library("ggplot2")
@@ -138,20 +140,22 @@ plot(mva.ts,plot.type="single",col=4:1)
 
 # Descomposición de las series --------------------------------------------
 
-
 componentes <- decompose(descargas.ts)
 plot(componentes)
+
+
 
 #Ejercicio. Realiza lo mismo para la sesiones. ¿Hay estacionalidad en la serie?
 
 sesiones.ts <- ...
 
-#Comprobamos si el modelo se ajusta a la realidad
+
+
+
+
 modelo_predictivo <- HoltWinters(descargas.ts)
 plot(modelo_predictivo)
 
-
-#Como sí se ajusta procedemos a realizar una predicción
 forecast2 <- forecast.HoltWinters(modelo_predictivo, h=6)
 plot(forecast2)
 #lines(fitted(forecast2), col='red', lty= 'longdash')
