@@ -1,0 +1,1257 @@
+"region","month","user.age.bracket","user.gender","desktop","mobile","tablet"
+"Andalusia",1,"18-24","female",179,401,31
+"Andalusia",1,"18-24","male",46,25,NA
+"Andalusia",1,"25-34","female",600,712,157
+"Andalusia",1,"25-34","male",130,112,38
+"Andalusia",1,"35-44","female",204,412,88
+"Andalusia",1,"35-44","male",107,70,45
+"Andalusia",1,"45-54","female",119,162,48
+"Andalusia",1,"45-54","male",84,21,NA
+"Andalusia",1,"55-64","female",38,34,41
+"Andalusia",1,"55-64","male",30,NA,NA
+"Andalusia",1,"65+","female",10,NA,NA
+"Andalusia",2,"18-24","female",160,302,24
+"Andalusia",2,"18-24","male",38,29,NA
+"Andalusia",2,"25-34","female",492,703,97
+"Andalusia",2,"25-34","male",125,137,28
+"Andalusia",2,"35-44","female",180,383,74
+"Andalusia",2,"35-44","male",107,64,28
+"Andalusia",2,"45-54","female",121,118,36
+"Andalusia",2,"45-54","male",60,NA,13
+"Andalusia",2,"55-64","female",31,19,NA
+"Andalusia",2,"55-64","male",16,NA,NA
+"Andalusia",2,"65+","female",13,NA,NA
+"Andalusia",2,"65+","male",11,NA,NA
+"Andalusia",3,"18-24","female",191,372,64
+"Andalusia",3,"18-24","male",37,30,NA
+"Andalusia",3,"25-34","female",433,810,127
+"Andalusia",3,"25-34","male",106,90,22
+"Andalusia",3,"35-44","female",207,444,97
+"Andalusia",3,"35-44","male",110,75,32
+"Andalusia",3,"45-54","female",120,136,57
+"Andalusia",3,"45-54","male",46,37,18
+"Andalusia",3,"55-64","female",46,17,29
+"Andalusia",3,"55-64","male",20,NA,NA
+"Andalusia",3,"65+","male",12,NA,NA
+"Andalusia",4,"18-24","female",245,405,35
+"Andalusia",4,"18-24","male",36,54,NA
+"Andalusia",4,"25-34","female",469,928,99
+"Andalusia",4,"25-34","male",178,118,45
+"Andalusia",4,"35-44","female",312,531,108
+"Andalusia",4,"35-44","male",254,108,21
+"Andalusia",4,"45-54","female",123,142,75
+"Andalusia",4,"45-54","male",107,21,17
+"Andalusia",4,"55-64","female",71,24,25
+"Andalusia",4,"55-64","male",46,NA,NA
+"Andalusia",4,"65+","female",13,NA,NA
+"Andalusia",4,"65+","male",22,NA,NA
+"Andalusia",5,"18-24","female",208,360,44
+"Andalusia",5,"18-24","male",26,24,NA
+"Andalusia",5,"25-34","female",602,771,127
+"Andalusia",5,"25-34","male",112,85,32
+"Andalusia",5,"35-44","female",273,579,120
+"Andalusia",5,"35-44","male",100,46,32
+"Andalusia",5,"45-54","female",134,164,94
+"Andalusia",5,"45-54","male",35,16,18
+"Andalusia",5,"55-64","female",33,17,15
+"Andalusia",5,"55-64","male",18,NA,NA
+"Andalusia",5,"65+","male",18,NA,NA
+"Andalusia",6,"18-24","female",184,379,37
+"Andalusia",6,"18-24","male",27,34,NA
+"Andalusia",6,"25-34","female",464,826,102
+"Andalusia",6,"25-34","male",82,82,19
+"Andalusia",6,"35-44","female",398,583,106
+"Andalusia",6,"35-44","male",211,101,30
+"Andalusia",6,"45-54","female",133,149,75
+"Andalusia",6,"45-54","male",75,17,20
+"Andalusia",6,"55-64","female",52,27,32
+"Andalusia",6,"55-64","male",20,NA,NA
+"Andalusia",7,"18-24","female",137,382,29
+"Andalusia",7,"18-24","male",30,25,NA
+"Andalusia",7,"25-34","female",382,1046,102
+"Andalusia",7,"25-34","male",73,97,34
+"Andalusia",7,"35-44","female",365,672,142
+"Andalusia",7,"35-44","male",81,65,31
+"Andalusia",7,"45-54","female",141,171,73
+"Andalusia",7,"45-54","male",37,32,13
+"Andalusia",7,"55-64","female",29,37,22
+"Andalusia",7,"55-64","male",23,NA,NA
+"Andalusia",8,"18-24","female",112,257,21
+"Andalusia",8,"18-24","male",30,34,NA
+"Andalusia",8,"25-34","female",259,762,82
+"Andalusia",8,"25-34","male",41,55,17
+"Andalusia",8,"35-44","female",204,570,116
+"Andalusia",8,"35-44","male",45,54,20
+"Andalusia",8,"45-54","female",79,146,46
+"Andalusia",8,"45-54","male",19,11,NA
+"Andalusia",8,"55-64","female",31,51,17
+"Andalusia",8,"55-64","male",14,17,NA
+"Andalusia",9,"18-24","female",85,276,21
+"Andalusia",9,"18-24","male",24,28,NA
+"Andalusia",9,"25-34","female",289,540,50
+"Andalusia",9,"25-34","male",93,71,NA
+"Andalusia",9,"35-44","female",217,430,87
+"Andalusia",9,"35-44","male",99,55,19
+"Andalusia",9,"45-54","female",93,115,63
+"Andalusia",9,"45-54","male",37,16,NA
+"Andalusia",9,"55-64","female",21,43,NA
+"Andalusia",9,"55-64","male",13,NA,NA
+"Andalusia",10,"18-24","female",110,232,NA
+"Andalusia",10,"18-24","male",14,NA,NA
+"Andalusia",10,"25-34","female",231,702,53
+"Andalusia",10,"25-34","male",57,87,NA
+"Andalusia",10,"35-44","female",192,452,81
+"Andalusia",10,"35-44","male",97,74,26
+"Andalusia",10,"45-54","female",75,144,43
+"Andalusia",10,"45-54","male",37,33,NA
+"Andalusia",10,"55-64","female",45,42,34
+"Andalusia",10,"55-64","male",18,18,NA
+"Andalusia",11,"18-24","female",163,261,15
+"Andalusia",11,"18-24","male",38,32,NA
+"Andalusia",11,"25-34","female",415,852,58
+"Andalusia",11,"25-34","male",75,129,NA
+"Andalusia",11,"35-44","female",270,509,76
+"Andalusia",11,"35-44","male",89,89,18
+"Andalusia",11,"45-54","female",122,139,64
+"Andalusia",11,"45-54","male",43,25,NA
+"Andalusia",11,"55-64","female",41,49,29
+"Andalusia",11,"55-64","male",22,NA,NA
+"Andalusia",12,"18-24","female",136,293,25
+"Andalusia",12,"18-24","male",43,31,NA
+"Andalusia",12,"25-34","female",324,856,56
+"Andalusia",12,"25-34","male",76,118,16
+"Andalusia",12,"35-44","female",196,541,107
+"Andalusia",12,"35-44","male",73,83,29
+"Andalusia",12,"45-54","female",99,178,51
+"Andalusia",12,"45-54","male",46,44,NA
+"Andalusia",12,"55-64","female",33,63,14
+"Andalusia",12,"55-64","male",18,15,NA
+"Aragon",1,"18-24","female",23,18,NA
+"Aragon",1,"25-34","female",47,106,15
+"Aragon",1,"25-34","male",22,17,NA
+"Aragon",1,"35-44","female",31,66,12
+"Aragon",1,"35-44","male",37,NA,NA
+"Aragon",1,"45-54","female",40,18,NA
+"Aragon",1,"55-64","female",21,NA,NA
+"Aragon",2,"18-24","female",26,NA,NA
+"Aragon",2,"25-34","female",31,73,13
+"Aragon",2,"25-34","male",17,NA,NA
+"Aragon",2,"35-44","female",28,32,15
+"Aragon",2,"35-44","male",21,NA,NA
+"Aragon",2,"45-54","female",33,21,11
+"Aragon",3,"18-24","female",18,32,NA
+"Aragon",3,"25-34","female",38,75,11
+"Aragon",3,"25-34","male",14,NA,NA
+"Aragon",3,"35-44","female",27,61,NA
+"Aragon",3,"35-44","male",18,NA,NA
+"Aragon",3,"45-54","female",24,17,16
+"Aragon",3,"45-54","male",11,NA,NA
+"Aragon",4,"18-24","female",41,21,NA
+"Aragon",4,"25-34","female",32,65,13
+"Aragon",4,"25-34","male",20,NA,NA
+"Aragon",4,"35-44","female",36,46,NA
+"Aragon",4,"35-44","male",25,12,NA
+"Aragon",4,"45-54","female",20,NA,NA
+"Aragon",4,"55-64","female",12,NA,NA
+"Aragon",5,"18-24","female",19,25,NA
+"Aragon",5,"25-34","female",40,52,NA
+"Aragon",5,"35-44","female",50,49,NA
+"Aragon",5,"35-44","male",14,NA,NA
+"Aragon",5,"45-54","female",37,22,NA
+"Aragon",6,"18-24","female",37,20,NA
+"Aragon",6,"25-34","female",43,73,NA
+"Aragon",6,"25-34","male",13,NA,NA
+"Aragon",6,"35-44","female",59,55,34
+"Aragon",6,"35-44","male",12,NA,NA
+"Aragon",6,"45-54","female",30,15,NA
+"Aragon",6,"55-64","female",15,NA,NA
+"Aragon",7,"18-24","female",22,44,NA
+"Aragon",7,"25-34","female",43,87,19
+"Aragon",7,"25-34","male",11,NA,NA
+"Aragon",7,"35-44","female",57,91,18
+"Aragon",7,"35-44","male",NA,25,NA
+"Aragon",7,"45-54","female",26,NA,NA
+"Aragon",7,"55-64","female",12,NA,NA
+"Aragon",8,"25-34","female",31,63,NA
+"Aragon",8,"35-44","female",18,48,14
+"Aragon",8,"45-54","female",17,22,NA
+"Aragon",9,"18-24","female",NA,15,NA
+"Aragon",9,"25-34","female",20,57,NA
+"Aragon",9,"35-44","female",25,29,NA
+"Aragon",9,"45-54","female",12,12,NA
+"Aragon",10,"18-24","female",NA,11,NA
+"Aragon",10,"25-34","female",26,35,NA
+"Aragon",10,"35-44","female",21,36,NA
+"Aragon",10,"35-44","male",14,NA,NA
+"Aragon",10,"45-54","female",12,12,NA
+"Aragon",11,"18-24","female",17,15,NA
+"Aragon",11,"25-34","female",14,57,NA
+"Aragon",11,"35-44","female",28,33,NA
+"Aragon",11,"35-44","male",15,NA,NA
+"Aragon",11,"45-54","female",17,30,NA
+"Aragon",11,"55-64","female",NA,NA,12
+"Aragon",12,"18-24","female",18,24,NA
+"Aragon",12,"25-34","female",23,46,NA
+"Aragon",12,"25-34","male",NA,11,NA
+"Aragon",12,"35-44","female",23,51,NA
+"Aragon",12,"35-44","male",NA,13,NA
+"Aragon",12,"45-54","female",19,16,NA
+"Asturias",1,"18-24","female",NA,17,NA
+"Asturias",1,"25-34","female",59,44,NA
+"Asturias",1,"25-34","male",22,NA,NA
+"Asturias",1,"35-44","female",26,27,NA
+"Asturias",1,"35-44","male",14,NA,NA
+"Asturias",1,"45-54","female",26,17,19
+"Asturias",2,"18-24","female",22,NA,NA
+"Asturias",2,"25-34","female",41,50,22
+"Asturias",2,"35-44","female",18,33,NA
+"Asturias",2,"45-54","female",14,15,NA
+"Asturias",3,"18-24","female",21,23,NA
+"Asturias",3,"25-34","female",51,59,NA
+"Asturias",3,"25-34","male",15,NA,NA
+"Asturias",3,"35-44","female",24,40,NA
+"Asturias",3,"55-64","female",16,NA,NA
+"Asturias",4,"18-24","female",12,16,NA
+"Asturias",4,"25-34","female",41,52,14
+"Asturias",4,"25-34","male",11,NA,NA
+"Asturias",4,"35-44","female",41,51,18
+"Asturias",4,"35-44","male",25,18,NA
+"Asturias",4,"45-54","female",18,24,NA
+"Asturias",4,"45-54","male",14,NA,NA
+"Asturias",5,"18-24","female",NA,14,NA
+"Asturias",5,"25-34","female",26,44,NA
+"Asturias",5,"35-44","female",33,36,22
+"Asturias",5,"45-54","female",18,18,22
+"Asturias",6,"18-24","female",NA,19,NA
+"Asturias",6,"25-34","female",36,43,NA
+"Asturias",6,"25-34","male",16,NA,NA
+"Asturias",6,"35-44","female",26,40,25
+"Asturias",6,"35-44","male",19,NA,NA
+"Asturias",6,"45-54","female",14,14,NA
+"Asturias",7,"18-24","female",13,25,NA
+"Asturias",7,"25-34","female",26,83,15
+"Asturias",7,"35-44","female",34,40,14
+"Asturias",7,"45-54","female",19,NA,NA
+"Asturias",8,"18-24","female",NA,25,NA
+"Asturias",8,"25-34","female",35,60,24
+"Asturias",8,"35-44","female",29,84,15
+"Asturias",8,"45-54","female",12,18,NA
+"Asturias",9,"18-24","female",NA,36,NA
+"Asturias",9,"25-34","female",29,119,NA
+"Asturias",9,"35-44","female",13,81,NA
+"Asturias",9,"35-44","male",15,NA,NA
+"Asturias",9,"45-54","female",NA,31,NA
+"Asturias",10,"18-24","female",NA,19,NA
+"Asturias",10,"25-34","female",23,90,NA
+"Asturias",10,"35-44","female",19,47,NA
+"Asturias",10,"45-54","female",NA,25,NA
+"Asturias",11,"18-24","female",NA,25,NA
+"Asturias",11,"25-34","female",26,41,NA
+"Asturias",11,"35-44","female",17,35,NA
+"Asturias",11,"45-54","female",11,NA,NA
+"Asturias",12,"18-24","female",NA,17,NA
+"Asturias",12,"25-34","female",24,42,NA
+"Asturias",12,"35-44","female",23,73,NA
+"Asturias",12,"45-54","female",11,18,NA
+"Balearic Islands",1,"18-24","female",12,13,NA
+"Balearic Islands",1,"25-34","female",32,49,NA
+"Balearic Islands",1,"25-34","male",10,NA,NA
+"Balearic Islands",1,"35-44","female",27,18,NA
+"Balearic Islands",1,"35-44","male",13,NA,NA
+"Balearic Islands",1,"45-54","female",21,NA,NA
+"Balearic Islands",2,"25-34","female",15,32,NA
+"Balearic Islands",2,"35-44","female",14,10,14
+"Balearic Islands",2,"45-54","female",12,NA,NA
+"Balearic Islands",3,"25-34","female",25,31,NA
+"Balearic Islands",3,"35-44","female",22,29,17
+"Balearic Islands",3,"45-54","female",16,NA,NA
+"Balearic Islands",4,"18-24","female",13,15,NA
+"Balearic Islands",4,"25-34","female",28,41,27
+"Balearic Islands",4,"25-34","male",24,NA,NA
+"Balearic Islands",4,"35-44","female",28,33,NA
+"Balearic Islands",4,"35-44","male",17,NA,NA
+"Balearic Islands",4,"45-54","female",37,NA,NA
+"Balearic Islands",4,"45-54","male",12,NA,NA
+"Balearic Islands",5,"25-34","female",24,44,NA
+"Balearic Islands",5,"35-44","female",36,29,NA
+"Balearic Islands",6,"25-34","female",21,33,NA
+"Balearic Islands",6,"35-44","female",40,21,19
+"Balearic Islands",6,"45-54","female",22,NA,NA
+"Balearic Islands",7,"18-24","female",NA,15,NA
+"Balearic Islands",7,"25-34","female",22,38,NA
+"Balearic Islands",7,"35-44","female",34,20,15
+"Balearic Islands",8,"18-24","female",14,NA,NA
+"Balearic Islands",8,"25-34","female",23,46,NA
+"Balearic Islands",8,"35-44","female",NA,29,16
+"Balearic Islands",8,"45-54","female",14,NA,NA
+"Balearic Islands",9,"25-34","female",NA,22,NA
+"Balearic Islands",9,"35-44","female",17,16,NA
+"Balearic Islands",10,"25-34","female",NA,32,NA
+"Balearic Islands",10,"35-44","female",15,22,NA
+"Balearic Islands",11,"25-34","female",20,27,NA
+"Balearic Islands",11,"35-44","female",13,14,NA
+"Balearic Islands",11,"45-54","female",12,NA,NA
+"Balearic Islands",12,"18-24","female",NA,11,NA
+"Balearic Islands",12,"25-34","female",11,25,NA
+"Balearic Islands",12,"35-44","female",21,17,NA
+"Basque Country",1,"18-24","female",37,20,NA
+"Basque Country",1,"25-34","female",84,127,37
+"Basque Country",1,"25-34","male",38,22,NA
+"Basque Country",1,"35-44","female",67,105,31
+"Basque Country",1,"35-44","male",27,15,NA
+"Basque Country",1,"45-54","female",45,51,32
+"Basque Country",1,"45-54","male",25,13,NA
+"Basque Country",1,"55-64","female",29,NA,NA
+"Basque Country",2,"18-24","female",23,36,NA
+"Basque Country",2,"25-34","female",95,74,25
+"Basque Country",2,"25-34","male",19,NA,NA
+"Basque Country",2,"35-44","female",63,87,33
+"Basque Country",2,"35-44","male",37,12,12
+"Basque Country",2,"45-54","female",63,22,23
+"Basque Country",2,"45-54","male",19,NA,NA
+"Basque Country",2,"55-64","female",33,NA,NA
+"Basque Country",3,"18-24","female",25,39,NA
+"Basque Country",3,"25-34","female",81,108,29
+"Basque Country",3,"25-34","male",20,NA,NA
+"Basque Country",3,"35-44","female",77,86,41
+"Basque Country",3,"35-44","male",30,23,NA
+"Basque Country",3,"45-54","female",48,35,18
+"Basque Country",3,"45-54","male",16,NA,NA
+"Basque Country",3,"55-64","female",21,NA,NA
+"Basque Country",3,"55-64","male",19,NA,NA
+"Basque Country",4,"18-24","female",28,34,NA
+"Basque Country",4,"18-24","male",14,NA,NA
+"Basque Country",4,"25-34","female",82,107,27
+"Basque Country",4,"25-34","male",22,10,NA
+"Basque Country",4,"35-44","female",77,79,39
+"Basque Country",4,"35-44","male",30,15,NA
+"Basque Country",4,"45-54","female",53,26,12
+"Basque Country",4,"45-54","male",23,NA,NA
+"Basque Country",4,"55-64","female",32,NA,NA
+"Basque Country",5,"18-24","female",32,17,NA
+"Basque Country",5,"25-34","female",67,92,32
+"Basque Country",5,"25-34","male",14,NA,NA
+"Basque Country",5,"35-44","female",61,97,42
+"Basque Country",5,"35-44","male",22,14,NA
+"Basque Country",5,"45-54","female",51,30,25
+"Basque Country",5,"45-54","male",23,NA,NA
+"Basque Country",5,"55-64","female",14,NA,NA
+"Basque Country",6,"18-24","female",38,27,NA
+"Basque Country",6,"25-34","female",77,119,20
+"Basque Country",6,"25-34","male",19,12,NA
+"Basque Country",6,"35-44","female",90,121,33
+"Basque Country",6,"35-44","male",24,NA,NA
+"Basque Country",6,"45-54","female",45,29,12
+"Basque Country",6,"45-54","male",17,NA,NA
+"Basque Country",6,"55-64","female",23,NA,NA
+"Basque Country",7,"18-24","female",50,43,21
+"Basque Country",7,"25-34","female",105,131,34
+"Basque Country",7,"25-34","male",17,NA,NA
+"Basque Country",7,"35-44","female",97,143,51
+"Basque Country",7,"35-44","male",28,NA,NA
+"Basque Country",7,"45-54","female",45,49,28
+"Basque Country",7,"55-64","female",13,18,21
+"Basque Country",8,"18-24","female",35,28,NA
+"Basque Country",8,"25-34","female",45,95,21
+"Basque Country",8,"25-34","male",NA,13,NA
+"Basque Country",8,"35-44","female",34,143,31
+"Basque Country",8,"35-44","male",21,NA,NA
+"Basque Country",8,"45-54","female",13,34,11
+"Basque Country",8,"55-64","female",14,NA,NA
+"Basque Country",9,"18-24","female",NA,16,NA
+"Basque Country",9,"25-34","female",34,71,NA
+"Basque Country",9,"35-44","female",41,93,21
+"Basque Country",9,"35-44","male",20,NA,NA
+"Basque Country",9,"45-54","female",31,28,NA
+"Basque Country",10,"18-24","female",NA,20,NA
+"Basque Country",10,"25-34","female",26,85,13
+"Basque Country",10,"35-44","female",36,108,16
+"Basque Country",10,"45-54","female",35,18,19
+"Basque Country",10,"45-54","male",21,NA,NA
+"Basque Country",10,"55-64","female",NA,17,NA
+"Basque Country",11,"18-24","female",15,20,NA
+"Basque Country",11,"25-34","female",41,95,NA
+"Basque Country",11,"35-44","female",50,60,25
+"Basque Country",11,"35-44","male",30,17,NA
+"Basque Country",11,"45-54","female",43,40,12
+"Basque Country",11,"45-54","male",17,NA,NA
+"Basque Country",12,"18-24","female",24,18,NA
+"Basque Country",12,"25-34","female",31,67,31
+"Basque Country",12,"25-34","male",15,NA,NA
+"Basque Country",12,"35-44","female",52,108,32
+"Basque Country",12,"35-44","male",21,16,NA
+"Basque Country",12,"45-54","female",25,33,31
+"Basque Country",12,"55-64","female",16,31,NA
+"Canary Islands",1,"18-24","female",NA,18,NA
+"Canary Islands",1,"25-34","female",25,47,NA
+"Canary Islands",1,"35-44","female",15,20,NA
+"Canary Islands",2,"18-24","female",NA,16,NA
+"Canary Islands",2,"25-34","female",23,29,NA
+"Canary Islands",3,"18-24","female",14,22,NA
+"Canary Islands",3,"25-34","female",12,25,NA
+"Canary Islands",3,"35-44","female",NA,19,NA
+"Canary Islands",4,"18-24","female",17,17,NA
+"Canary Islands",4,"25-34","female",25,42,NA
+"Canary Islands",4,"25-34","male",10,11,NA
+"Canary Islands",4,"35-44","female",19,35,NA
+"Canary Islands",4,"35-44","male",27,12,NA
+"Canary Islands",4,"45-54","female",18,NA,NA
+"Canary Islands",5,"25-34","female",NA,19,NA
+"Canary Islands",5,"35-44","female",NA,11,NA
+"Canary Islands",6,"25-34","female",13,13,NA
+"Canary Islands",7,"18-24","female",NA,15,NA
+"Canary Islands",7,"25-34","female",11,20,NA
+"Canary Islands",7,"35-44","female",12,20,NA
+"Canary Islands",8,"25-34","female",12,17,NA
+"Canary Islands",8,"35-44","female",NA,15,NA
+"Canary Islands",9,"35-44","female",NA,12,NA
+"Canary Islands",10,"25-34","female",NA,22,NA
+"Canary Islands",10,"35-44","female",NA,16,NA
+"Canary Islands",11,"35-44","female",NA,12,NA
+"Canary Islands",12,"25-34","female",NA,11,NA
+"Cantabria",1,"25-34","female",29,25,NA
+"Cantabria",1,"35-44","female",14,24,17
+"Cantabria",2,"25-34","female",18,52,NA
+"Cantabria",2,"35-44","female",NA,16,NA
+"Cantabria",3,"25-34","female",17,29,NA
+"Cantabria",3,"35-44","female",NA,21,NA
+"Cantabria",4,"25-34","female",14,24,NA
+"Cantabria",4,"35-44","female",16,27,NA
+"Cantabria",4,"35-44","male",14,NA,NA
+"Cantabria",5,"25-34","female",21,15,NA
+"Cantabria",5,"35-44","female",16,13,NA
+"Cantabria",6,"25-34","female",NA,19,NA
+"Cantabria",6,"35-44","female",26,27,NA
+"Cantabria",7,"25-34","female",19,26,NA
+"Cantabria",7,"35-44","female",19,22,11
+"Cantabria",7,"45-54","female",16,NA,NA
+"Cantabria",8,"25-34","female",NA,20,NA
+"Cantabria",8,"35-44","female",16,15,NA
+"Cantabria",8,"45-54","female",NA,14,NA
+"Cantabria",9,"25-34","female",NA,21,NA
+"Cantabria",9,"35-44","female",18,16,NA
+"Cantabria",10,"25-34","female",NA,18,NA
+"Cantabria",10,"35-44","female",18,30,NA
+"Cantabria",11,"25-34","female",NA,21,NA
+"Cantabria",11,"35-44","female",NA,20,NA
+"Cantabria",12,"25-34","female",NA,18,NA
+"Cantabria",12,"35-44","female",NA,24,NA
+"Castile and Leon",1,"18-24","female",36,67,NA
+"Castile and Leon",1,"25-34","female",74,194,42
+"Castile and Leon",1,"25-34","male",42,22,NA
+"Castile and Leon",1,"35-44","female",61,101,33
+"Castile and Leon",1,"35-44","male",33,NA,NA
+"Castile and Leon",1,"45-54","female",39,52,24
+"Castile and Leon",1,"45-54","male",23,NA,NA
+"Castile and Leon",1,"55-64","female",22,NA,NA
+"Castile and Leon",1,"55-64","male",13,NA,NA
+"Castile and Leon",2,"18-24","female",35,46,NA
+"Castile and Leon",2,"25-34","female",61,111,24
+"Castile and Leon",2,"25-34","male",33,15,NA
+"Castile and Leon",2,"35-44","female",40,99,17
+"Castile and Leon",2,"35-44","male",26,12,18
+"Castile and Leon",2,"45-54","female",49,34,26
+"Castile and Leon",2,"45-54","male",15,NA,NA
+"Castile and Leon",2,"55-64","female",26,NA,NA
+"Castile and Leon",2,"55-64","male",22,NA,NA
+"Castile and Leon",3,"18-24","female",47,40,NA
+"Castile and Leon",3,"25-34","female",77,175,35
+"Castile and Leon",3,"25-34","male",35,23,12
+"Castile and Leon",3,"35-44","female",50,78,21
+"Castile and Leon",3,"35-44","male",21,13,NA
+"Castile and Leon",3,"45-54","female",40,35,20
+"Castile and Leon",3,"45-54","male",12,NA,NA
+"Castile and Leon",3,"55-64","female",21,NA,NA
+"Castile and Leon",3,"55-64","male",13,NA,NA
+"Castile and Leon",4,"18-24","female",54,64,NA
+"Castile and Leon",4,"25-34","female",78,157,34
+"Castile and Leon",4,"25-34","male",46,19,NA
+"Castile and Leon",4,"35-44","female",74,90,33
+"Castile and Leon",4,"35-44","male",37,23,NA
+"Castile and Leon",4,"45-54","female",53,26,24
+"Castile and Leon",4,"45-54","male",24,NA,NA
+"Castile and Leon",4,"55-64","female",27,18,13
+"Castile and Leon",4,"55-64","male",15,NA,NA
+"Castile and Leon",5,"18-24","female",32,84,NA
+"Castile and Leon",5,"25-34","female",76,191,34
+"Castile and Leon",5,"25-34","male",16,18,NA
+"Castile and Leon",5,"35-44","female",72,124,26
+"Castile and Leon",5,"35-44","male",NA,15,NA
+"Castile and Leon",5,"45-54","female",36,32,21
+"Castile and Leon",5,"45-54","male",17,NA,NA
+"Castile and Leon",5,"55-64","female",20,NA,NA
+"Castile and Leon",6,"18-24","female",26,84,NA
+"Castile and Leon",6,"25-34","female",66,167,27
+"Castile and Leon",6,"25-34","male",19,21,NA
+"Castile and Leon",6,"35-44","female",90,146,31
+"Castile and Leon",6,"35-44","male",18,20,NA
+"Castile and Leon",6,"45-54","female",32,42,22
+"Castile and Leon",6,"45-54","male",16,NA,NA
+"Castile and Leon",6,"55-64","female",NA,14,NA
+"Castile and Leon",7,"18-24","female",57,63,17
+"Castile and Leon",7,"25-34","female",127,268,30
+"Castile and Leon",7,"25-34","male",31,24,NA
+"Castile and Leon",7,"35-44","female",89,197,41
+"Castile and Leon",7,"35-44","male",24,21,NA
+"Castile and Leon",7,"45-54","female",62,50,16
+"Castile and Leon",7,"55-64","female",12,NA,NA
+"Castile and Leon",8,"18-24","female",28,49,NA
+"Castile and Leon",8,"25-34","female",51,182,11
+"Castile and Leon",8,"25-34","male",16,16,NA
+"Castile and Leon",8,"35-44","female",43,209,39
+"Castile and Leon",8,"35-44","male",18,18,NA
+"Castile and Leon",8,"45-54","female",27,26,16
+"Castile and Leon",8,"55-64","female",17,NA,NA
+"Castile and Leon",9,"18-24","female",26,33,NA
+"Castile and Leon",9,"25-34","female",41,88,10
+"Castile and Leon",9,"25-34","male",NA,10,NA
+"Castile and Leon",9,"35-44","female",64,77,35
+"Castile and Leon",9,"35-44","male",21,15,NA
+"Castile and Leon",9,"45-54","female",19,29,22
+"Castile and Leon",10,"18-24","female",52,17,NA
+"Castile and Leon",10,"25-34","female",36,117,15
+"Castile and Leon",10,"25-34","male",20,NA,NA
+"Castile and Leon",10,"35-44","female",54,85,50
+"Castile and Leon",10,"35-44","male",13,15,NA
+"Castile and Leon",10,"45-54","female",23,43,17
+"Castile and Leon",10,"55-64","female",NA,11,NA
+"Castile and Leon",11,"18-24","female",46,32,NA
+"Castile and Leon",11,"25-34","female",87,127,27
+"Castile and Leon",11,"25-34","male",15,NA,NA
+"Castile and Leon",11,"35-44","female",41,134,24
+"Castile and Leon",11,"35-44","male",16,10,NA
+"Castile and Leon",11,"45-54","female",20,56,12
+"Castile and Leon",11,"55-64","female",16,NA,NA
+"Castile and Leon",12,"18-24","female",46,43,NA
+"Castile and Leon",12,"25-34","female",71,157,19
+"Castile and Leon",12,"25-34","male",19,29,NA
+"Castile and Leon",12,"35-44","female",56,147,37
+"Castile and Leon",12,"35-44","male",15,20,NA
+"Castile and Leon",12,"45-54","female",31,52,29
+"Castile and Leon",12,"45-54","male",14,NA,NA
+"Castile and Leon",12,"55-64","female",NA,22,NA
+"Castile-La Mancha",1,"18-24","female",77,77,NA
+"Castile-La Mancha",1,"25-34","female",82,164,17
+"Castile-La Mancha",1,"25-34","male",44,15,NA
+"Castile-La Mancha",1,"35-44","female",58,75,NA
+"Castile-La Mancha",1,"35-44","male",28,20,NA
+"Castile-La Mancha",1,"45-54","female",27,20,NA
+"Castile-La Mancha",2,"18-24","female",44,55,NA
+"Castile-La Mancha",2,"25-34","female",71,97,24
+"Castile-La Mancha",2,"25-34","male",38,16,NA
+"Castile-La Mancha",2,"35-44","female",47,61,20
+"Castile-La Mancha",2,"35-44","male",23,11,NA
+"Castile-La Mancha",2,"45-54","female",24,17,NA
+"Castile-La Mancha",3,"18-24","female",37,65,NA
+"Castile-La Mancha",3,"25-34","female",102,148,NA
+"Castile-La Mancha",3,"25-34","male",19,18,NA
+"Castile-La Mancha",3,"35-44","female",59,101,25
+"Castile-La Mancha",3,"35-44","male",32,NA,NA
+"Castile-La Mancha",3,"45-54","female",30,25,NA
+"Castile-La Mancha",4,"18-24","female",46,47,NA
+"Castile-La Mancha",4,"18-24","male",17,NA,NA
+"Castile-La Mancha",4,"25-34","female",106,157,26
+"Castile-La Mancha",4,"25-34","male",35,22,NA
+"Castile-La Mancha",4,"35-44","female",64,113,21
+"Castile-La Mancha",4,"35-44","male",40,NA,NA
+"Castile-La Mancha",4,"45-54","female",45,16,NA
+"Castile-La Mancha",4,"45-54","male",22,NA,NA
+"Castile-La Mancha",4,"55-64","female",12,NA,NA
+"Castile-La Mancha",4,"55-64","male",17,NA,NA
+"Castile-La Mancha",5,"18-24","female",58,82,NA
+"Castile-La Mancha",5,"25-34","female",76,131,25
+"Castile-La Mancha",5,"25-34","male",22,19,NA
+"Castile-La Mancha",5,"35-44","female",61,110,25
+"Castile-La Mancha",5,"35-44","male",23,NA,NA
+"Castile-La Mancha",5,"45-54","female",34,27,NA
+"Castile-La Mancha",6,"18-24","female",51,65,NA
+"Castile-La Mancha",6,"25-34","female",74,187,30
+"Castile-La Mancha",6,"25-34","male",NA,11,NA
+"Castile-La Mancha",6,"35-44","female",94,141,43
+"Castile-La Mancha",6,"35-44","male",23,20,NA
+"Castile-La Mancha",6,"45-54","female",35,41,12
+"Castile-La Mancha",7,"18-24","female",49,96,NA
+"Castile-La Mancha",7,"18-24","male",14,NA,NA
+"Castile-La Mancha",7,"25-34","female",88,201,22
+"Castile-La Mancha",7,"25-34","male",NA,23,NA
+"Castile-La Mancha",7,"35-44","female",90,195,35
+"Castile-La Mancha",7,"35-44","male",27,NA,NA
+"Castile-La Mancha",7,"45-54","female",43,45,22
+"Castile-La Mancha",7,"55-64","male",15,NA,NA
+"Castile-La Mancha",8,"18-24","female",35,39,NA
+"Castile-La Mancha",8,"25-34","female",49,147,NA
+"Castile-La Mancha",8,"25-34","male",NA,18,NA
+"Castile-La Mancha",8,"35-44","female",48,104,20
+"Castile-La Mancha",8,"35-44","male",22,NA,NA
+"Castile-La Mancha",8,"45-54","female",16,NA,16
+"Castile-La Mancha",8,"55-64","female",NA,12,NA
+"Castile-La Mancha",9,"18-24","female",22,56,NA
+"Castile-La Mancha",9,"25-34","female",49,107,NA
+"Castile-La Mancha",9,"25-34","male",15,NA,NA
+"Castile-La Mancha",9,"35-44","female",30,88,NA
+"Castile-La Mancha",9,"45-54","female",NA,26,NA
+"Castile-La Mancha",10,"18-24","female",20,44,NA
+"Castile-La Mancha",10,"25-34","female",75,123,11
+"Castile-La Mancha",10,"25-34","male",16,15,NA
+"Castile-La Mancha",10,"35-44","female",34,121,30
+"Castile-La Mancha",10,"35-44","male",17,NA,NA
+"Castile-La Mancha",10,"45-54","female",15,30,NA
+"Castile-La Mancha",10,"55-64","female",NA,14,NA
+"Castile-La Mancha",11,"18-24","female",22,64,NA
+"Castile-La Mancha",11,"25-34","female",51,156,23
+"Castile-La Mancha",11,"25-34","male",NA,16,NA
+"Castile-La Mancha",11,"35-44","female",57,74,36
+"Castile-La Mancha",11,"35-44","male",12,NA,NA
+"Castile-La Mancha",11,"45-54","female",26,26,NA
+"Castile-La Mancha",11,"45-54","male",25,NA,NA
+"Castile-La Mancha",11,"55-64","female",NA,13,NA
+"Castile-La Mancha",12,"18-24","female",45,70,NA
+"Castile-La Mancha",12,"18-24","male",18,NA,NA
+"Castile-La Mancha",12,"25-34","female",62,157,NA
+"Castile-La Mancha",12,"25-34","male",17,20,NA
+"Castile-La Mancha",12,"35-44","female",43,121,21
+"Castile-La Mancha",12,"35-44","male",23,17,NA
+"Castile-La Mancha",12,"45-54","female",30,55,17
+"Castile-La Mancha",12,"45-54","male",13,NA,NA
+"Catalonia",1,"18-24","female",158,206,24
+"Catalonia",1,"18-24","male",26,18,NA
+"Catalonia",1,"25-34","female",377,530,138
+"Catalonia",1,"25-34","male",114,83,20
+"Catalonia",1,"35-44","female",267,418,112
+"Catalonia",1,"35-44","male",124,66,27
+"Catalonia",1,"45-54","female",132,145,62
+"Catalonia",1,"45-54","male",55,27,28
+"Catalonia",1,"55-64","female",77,28,25
+"Catalonia",1,"55-64","male",38,NA,NA
+"Catalonia",1,"65+","female",22,NA,NA
+"Catalonia",1,"65+","male",29,NA,NA
+"Catalonia",2,"18-24","female",136,136,17
+"Catalonia",2,"18-24","male",16,16,NA
+"Catalonia",2,"25-34","female",302,441,103
+"Catalonia",2,"25-34","male",75,57,20
+"Catalonia",2,"35-44","female",238,311,114
+"Catalonia",2,"35-44","male",141,50,27
+"Catalonia",2,"45-54","female",156,129,48
+"Catalonia",2,"45-54","male",43,23,NA
+"Catalonia",2,"55-64","female",105,26,28
+"Catalonia",2,"55-64","male",22,NA,NA
+"Catalonia",2,"65+","female",14,NA,NA
+"Catalonia",2,"65+","male",28,NA,NA
+"Catalonia",3,"18-24","female",144,190,26
+"Catalonia",3,"18-24","male",20,NA,NA
+"Catalonia",3,"25-34","female",351,631,143
+"Catalonia",3,"25-34","male",75,53,11
+"Catalonia",3,"35-44","female",264,429,122
+"Catalonia",3,"35-44","male",119,77,22
+"Catalonia",3,"45-54","female",154,90,62
+"Catalonia",3,"45-54","male",46,17,18
+"Catalonia",3,"55-64","female",77,34,26
+"Catalonia",3,"55-64","male",37,14,NA
+"Catalonia",3,"65+","female",24,NA,NA
+"Catalonia",3,"65+","male",20,NA,NA
+"Catalonia",4,"18-24","female",152,216,23
+"Catalonia",4,"18-24","male",41,24,NA
+"Catalonia",4,"25-34","female",373,619,88
+"Catalonia",4,"25-34","male",145,109,27
+"Catalonia",4,"35-44","female",307,423,83
+"Catalonia",4,"35-44","male",144,101,21
+"Catalonia",4,"45-54","female",198,118,60
+"Catalonia",4,"45-54","male",105,33,17
+"Catalonia",4,"55-64","female",100,23,35
+"Catalonia",4,"55-64","male",81,12,NA
+"Catalonia",4,"65+","female",19,NA,NA
+"Catalonia",4,"65+","male",29,NA,NA
+"Catalonia",5,"18-24","female",129,174,17
+"Catalonia",5,"18-24","male",21,12,NA
+"Catalonia",5,"25-34","female",315,445,79
+"Catalonia",5,"25-34","male",76,45,19
+"Catalonia",5,"35-44","female",281,345,102
+"Catalonia",5,"35-44","male",76,59,23
+"Catalonia",5,"45-54","female",139,117,67
+"Catalonia",5,"45-54","male",34,27,NA
+"Catalonia",5,"55-64","female",55,27,37
+"Catalonia",5,"55-64","male",37,NA,NA
+"Catalonia",5,"65+","female",21,NA,NA
+"Catalonia",5,"65+","male",18,NA,NA
+"Catalonia",6,"18-24","female",142,149,17
+"Catalonia",6,"18-24","male",25,14,NA
+"Catalonia",6,"25-34","female",276,503,84
+"Catalonia",6,"25-34","male",63,52,27
+"Catalonia",6,"35-44","female",263,412,104
+"Catalonia",6,"35-44","male",85,52,32
+"Catalonia",6,"45-54","female",118,112,76
+"Catalonia",6,"45-54","male",23,18,13
+"Catalonia",6,"55-64","female",51,36,18
+"Catalonia",6,"55-64","male",18,NA,NA
+"Catalonia",6,"65+","female",18,10,NA
+"Catalonia",7,"18-24","female",102,197,29
+"Catalonia",7,"18-24","male",26,14,NA
+"Catalonia",7,"25-34","female",290,695,120
+"Catalonia",7,"25-34","male",59,64,NA
+"Catalonia",7,"35-44","female",292,582,125
+"Catalonia",7,"35-44","male",75,73,37
+"Catalonia",7,"45-54","female",156,151,60
+"Catalonia",7,"45-54","male",34,19,32
+"Catalonia",7,"55-64","female",44,28,24
+"Catalonia",7,"55-64","male",21,NA,NA
+"Catalonia",7,"65+","female",30,16,NA
+"Catalonia",8,"18-24","female",73,178,15
+"Catalonia",8,"18-24","male",14,29,NA
+"Catalonia",8,"25-34","female",144,526,57
+"Catalonia",8,"25-34","male",45,48,NA
+"Catalonia",8,"35-44","female",188,522,103
+"Catalonia",8,"35-44","male",50,62,32
+"Catalonia",8,"45-54","female",89,140,51
+"Catalonia",8,"45-54","male",22,21,NA
+"Catalonia",8,"55-64","female",54,59,33
+"Catalonia",8,"55-64","male",13,NA,NA
+"Catalonia",8,"65+","female",22,NA,NA
+"Catalonia",9,"18-24","female",79,122,NA
+"Catalonia",9,"18-24","male",13,18,NA
+"Catalonia",9,"25-34","female",167,410,74
+"Catalonia",9,"25-34","male",39,38,NA
+"Catalonia",9,"35-44","female",204,288,85
+"Catalonia",9,"35-44","male",51,62,13
+"Catalonia",9,"45-54","female",67,90,40
+"Catalonia",9,"45-54","male",29,18,NA
+"Catalonia",9,"55-64","female",32,26,41
+"Catalonia",9,"55-64","male",36,NA,NA
+"Catalonia",9,"65+","female",16,NA,NA
+"Catalonia",10,"18-24","female",66,137,NA
+"Catalonia",10,"18-24","male",13,13,NA
+"Catalonia",10,"25-34","female",190,426,61
+"Catalonia",10,"25-34","male",59,66,NA
+"Catalonia",10,"35-44","female",203,338,69
+"Catalonia",10,"35-44","male",58,44,25
+"Catalonia",10,"45-54","female",109,113,32
+"Catalonia",10,"45-54","male",24,35,NA
+"Catalonia",10,"55-64","female",55,54,49
+"Catalonia",10,"55-64","male",14,NA,NA
+"Catalonia",10,"65+","female",18,NA,NA
+"Catalonia",11,"18-24","female",102,161,NA
+"Catalonia",11,"18-24","male",35,NA,NA
+"Catalonia",11,"25-34","female",225,483,40
+"Catalonia",11,"25-34","male",58,51,NA
+"Catalonia",11,"35-44","female",227,383,57
+"Catalonia",11,"35-44","male",72,40,22
+"Catalonia",11,"45-54","female",138,149,41
+"Catalonia",11,"45-54","male",38,28,NA
+"Catalonia",11,"55-64","female",49,63,32
+"Catalonia",11,"55-64","male",27,13,NA
+"Catalonia",11,"65+","female",20,NA,NA
+"Catalonia",12,"18-24","female",93,172,20
+"Catalonia",12,"18-24","male",24,19,NA
+"Catalonia",12,"25-34","female",133,479,70
+"Catalonia",12,"25-34","male",77,45,NA
+"Catalonia",12,"35-44","female",217,405,92
+"Catalonia",12,"35-44","male",101,51,32
+"Catalonia",12,"45-54","female",113,126,42
+"Catalonia",12,"45-54","male",40,53,NA
+"Catalonia",12,"55-64","female",69,51,36
+"Catalonia",12,"55-64","male",28,NA,NA
+"Catalonia",12,"65+","female",22,NA,NA
+"Catalonia",12,"65+","male",14,NA,NA
+"Community of Madrid",1,"18-24","female",123,420,14
+"Community of Madrid",1,"18-24","male",37,45,NA
+"Community of Madrid",1,"25-34","female",306,1129,115
+"Community of Madrid",1,"25-34","male",215,175,37
+"Community of Madrid",1,"35-44","female",207,655,99
+"Community of Madrid",1,"35-44","male",103,165,29
+"Community of Madrid",1,"45-54","female",123,285,58
+"Community of Madrid",1,"45-54","male",62,61,26
+"Community of Madrid",1,"55-64","female",43,81,26
+"Community of Madrid",1,"55-64","male",38,27,NA
+"Community of Madrid",1,"65+","female",11,NA,NA
+"Community of Madrid",1,"65+","male",22,NA,NA
+"Community of Madrid",2,"18-24","female",96,283,23
+"Community of Madrid",2,"18-24","male",25,19,NA
+"Community of Madrid",2,"25-34","female",382,804,119
+"Community of Madrid",2,"25-34","male",206,131,27
+"Community of Madrid",2,"35-44","female",183,458,75
+"Community of Madrid",2,"35-44","male",126,104,31
+"Community of Madrid",2,"45-54","female",91,159,41
+"Community of Madrid",2,"45-54","male",40,44,27
+"Community of Madrid",2,"55-64","female",37,38,45
+"Community of Madrid",2,"55-64","male",27,11,NA
+"Community of Madrid",2,"65+","female",14,NA,NA
+"Community of Madrid",2,"65+","male",16,NA,NA
+"Community of Madrid",3,"18-24","female",130,317,28
+"Community of Madrid",3,"18-24","male",29,30,NA
+"Community of Madrid",3,"25-34","female",362,1029,119
+"Community of Madrid",3,"25-34","male",105,131,26
+"Community of Madrid",3,"35-44","female",291,564,114
+"Community of Madrid",3,"35-44","male",73,139,34
+"Community of Madrid",3,"45-54","female",106,159,73
+"Community of Madrid",3,"45-54","male",41,35,13
+"Community of Madrid",3,"55-64","female",59,38,44
+"Community of Madrid",3,"55-64","male",25,NA,NA
+"Community of Madrid",3,"65+","female",16,NA,NA
+"Community of Madrid",3,"65+","male",15,NA,NA
+"Community of Madrid",4,"18-24","female",147,298,24
+"Community of Madrid",4,"18-24","male",33,46,NA
+"Community of Madrid",4,"25-34","female",429,845,136
+"Community of Madrid",4,"25-34","male",177,154,30
+"Community of Madrid",4,"35-44","female",252,522,113
+"Community of Madrid",4,"35-44","male",177,165,27
+"Community of Madrid",4,"45-54","female",177,146,55
+"Community of Madrid",4,"45-54","male",102,60,12
+"Community of Madrid",4,"55-64","female",84,45,25
+"Community of Madrid",4,"55-64","male",52,37,NA
+"Community of Madrid",4,"65+","female",21,NA,NA
+"Community of Madrid",4,"65+","male",17,NA,NA
+"Community of Madrid",5,"18-24","female",124,247,20
+"Community of Madrid",5,"18-24","male",17,29,NA
+"Community of Madrid",5,"25-34","female",329,851,94
+"Community of Madrid",5,"25-34","male",106,92,32
+"Community of Madrid",5,"35-44","female",226,603,92
+"Community of Madrid",5,"35-44","male",91,107,26
+"Community of Madrid",5,"45-54","female",100,161,56
+"Community of Madrid",5,"45-54","male",38,26,NA
+"Community of Madrid",5,"55-64","female",33,49,26
+"Community of Madrid",5,"55-64","male",12,NA,NA
+"Community of Madrid",6,"18-24","female",129,275,21
+"Community of Madrid",6,"18-24","male",29,36,NA
+"Community of Madrid",6,"25-34","female",311,914,101
+"Community of Madrid",6,"25-34","male",114,125,22
+"Community of Madrid",6,"35-44","female",297,688,144
+"Community of Madrid",6,"35-44","male",91,85,41
+"Community of Madrid",6,"45-54","female",119,193,49
+"Community of Madrid",6,"45-54","male",32,25,NA
+"Community of Madrid",6,"55-64","female",31,50,18
+"Community of Madrid",6,"55-64","male",12,13,NA
+"Community of Madrid",6,"65+","female",NA,NA,17
+"Community of Madrid",7,"18-24","female",126,351,30
+"Community of Madrid",7,"18-24","male",21,36,NA
+"Community of Madrid",7,"25-34","female",358,1271,102
+"Community of Madrid",7,"25-34","male",121,132,13
+"Community of Madrid",7,"35-44","female",341,1036,205
+"Community of Madrid",7,"35-44","male",102,93,32
+"Community of Madrid",7,"45-54","female",144,237,59
+"Community of Madrid",7,"45-54","male",28,59,NA
+"Community of Madrid",7,"55-64","female",49,82,20
+"Community of Madrid",7,"55-64","male",19,13,NA
+"Community of Madrid",7,"65+","female",NA,20,NA
+"Community of Madrid",8,"18-24","female",41,281,24
+"Community of Madrid",8,"18-24","male",28,35,NA
+"Community of Madrid",8,"25-34","female",179,772,61
+"Community of Madrid",8,"25-34","male",49,71,NA
+"Community of Madrid",8,"35-44","female",173,685,116
+"Community of Madrid",8,"35-44","male",71,74,27
+"Community of Madrid",8,"45-54","female",73,199,25
+"Community of Madrid",8,"45-54","male",25,35,NA
+"Community of Madrid",8,"55-64","female",27,62,16
+"Community of Madrid",8,"55-64","male",11,12,NA
+"Community of Madrid",8,"65+","female",NA,16,NA
+"Community of Madrid",9,"18-24","female",49,215,NA
+"Community of Madrid",9,"18-24","male",NA,16,NA
+"Community of Madrid",9,"25-34","female",164,495,35
+"Community of Madrid",9,"25-34","male",54,61,NA
+"Community of Madrid",9,"35-44","female",135,426,62
+"Community of Madrid",9,"35-44","male",80,66,17
+"Community of Madrid",9,"45-54","female",57,109,26
+"Community of Madrid",9,"45-54","male",27,27,NA
+"Community of Madrid",9,"55-64","female",20,48,17
+"Community of Madrid",9,"55-64","male",11,NA,NA
+"Community of Madrid",10,"18-24","female",40,201,21
+"Community of Madrid",10,"18-24","male",28,31,NA
+"Community of Madrid",10,"25-34","female",141,692,48
+"Community of Madrid",10,"25-34","male",47,98,15
+"Community of Madrid",10,"35-44","female",135,577,103
+"Community of Madrid",10,"35-44","male",61,115,20
+"Community of Madrid",10,"45-54","female",50,224,26
+"Community of Madrid",10,"45-54","male",28,33,NA
+"Community of Madrid",10,"55-64","female",49,78,25
+"Community of Madrid",10,"55-64","male",17,20,NA
+"Community of Madrid",10,"65+","female",18,NA,NA
+"Community of Madrid",10,"65+","male",17,NA,NA
+"Community of Madrid",11,"18-24","female",45,211,NA
+"Community of Madrid",11,"18-24","male",31,27,NA
+"Community of Madrid",11,"25-34","female",209,764,70
+"Community of Madrid",11,"25-34","male",74,106,26
+"Community of Madrid",11,"35-44","female",147,531,54
+"Community of Madrid",11,"35-44","male",51,101,17
+"Community of Madrid",11,"45-54","female",79,193,27
+"Community of Madrid",11,"45-54","male",38,24,NA
+"Community of Madrid",11,"55-64","female",27,80,18
+"Community of Madrid",11,"55-64","male",23,NA,NA
+"Community of Madrid",11,"65+","female",12,NA,NA
+"Community of Madrid",11,"65+","male",49,NA,NA
+"Community of Madrid",12,"18-24","female",80,203,NA
+"Community of Madrid",12,"18-24","male",26,20,NA
+"Community of Madrid",12,"25-34","female",145,683,49
+"Community of Madrid",12,"25-34","male",64,123,14
+"Community of Madrid",12,"35-44","female",171,501,43
+"Community of Madrid",12,"35-44","male",74,133,19
+"Community of Madrid",12,"45-54","female",111,176,36
+"Community of Madrid",12,"45-54","male",56,55,16
+"Community of Madrid",12,"55-64","female",34,80,19
+"Community of Madrid",12,"55-64","male",21,20,NA
+"Community of Madrid",12,"65+","male",15,NA,NA
+"Extremadura",1,"18-24","female",34,37,NA
+"Extremadura",1,"25-34","female",75,95,21
+"Extremadura",1,"25-34","male",16,20,NA
+"Extremadura",1,"35-44","female",43,58,12
+"Extremadura",1,"35-44","male",NA,12,NA
+"Extremadura",1,"45-54","female",30,18,NA
+"Extremadura",2,"18-24","female",30,33,NA
+"Extremadura",2,"25-34","female",56,109,NA
+"Extremadura",2,"35-44","female",25,43,NA
+"Extremadura",2,"45-54","female",14,11,NA
+"Extremadura",3,"18-24","female",30,30,NA
+"Extremadura",3,"25-34","female",60,83,19
+"Extremadura",3,"35-44","female",39,41,NA
+"Extremadura",3,"45-54","female",12,20,NA
+"Extremadura",4,"18-24","female",23,31,NA
+"Extremadura",4,"25-34","female",33,74,18
+"Extremadura",4,"25-34","male",18,NA,NA
+"Extremadura",4,"35-44","female",42,42,NA
+"Extremadura",4,"35-44","male",22,NA,NA
+"Extremadura",4,"45-54","female",47,23,NA
+"Extremadura",4,"45-54","male",16,NA,NA
+"Extremadura",5,"18-24","female",19,NA,NA
+"Extremadura",5,"25-34","female",44,84,17
+"Extremadura",5,"25-34","male",56,NA,NA
+"Extremadura",5,"35-44","female",33,56,NA
+"Extremadura",5,"45-54","female",16,17,NA
+"Extremadura",6,"18-24","female",NA,35,NA
+"Extremadura",6,"25-34","female",54,106,15
+"Extremadura",6,"35-44","female",49,71,12
+"Extremadura",6,"45-54","female",33,40,NA
+"Extremadura",7,"18-24","female",22,58,NA
+"Extremadura",7,"25-34","female",82,128,21
+"Extremadura",7,"35-44","female",84,134,15
+"Extremadura",7,"45-54","female",29,23,NA
+"Extremadura",8,"18-24","female",13,45,NA
+"Extremadura",8,"25-34","female",47,120,NA
+"Extremadura",8,"35-44","female",55,75,NA
+"Extremadura",9,"18-24","female",25,36,NA
+"Extremadura",9,"25-34","female",24,99,NA
+"Extremadura",9,"35-44","female",26,45,NA
+"Extremadura",9,"45-54","female",NA,28,NA
+"Extremadura",10,"18-24","female",NA,18,NA
+"Extremadura",10,"25-34","female",21,64,NA
+"Extremadura",10,"35-44","female",30,79,NA
+"Extremadura",10,"45-54","female",NA,13,NA
+"Extremadura",11,"18-24","female",NA,32,NA
+"Extremadura",11,"25-34","female",26,93,NA
+"Extremadura",11,"35-44","female",17,50,NA
+"Extremadura",11,"45-54","female",NA,26,NA
+"Extremadura",12,"18-24","female",17,34,NA
+"Extremadura",12,"25-34","female",22,75,NA
+"Extremadura",12,"35-44","female",25,49,NA
+"Extremadura",12,"35-44","male",18,NA,NA
+"Extremadura",12,"45-54","female",15,13,29
+"Galicia",1,"18-24","female",52,53,NA
+"Galicia",1,"25-34","female",127,161,41
+"Galicia",1,"25-34","male",30,17,15
+"Galicia",1,"35-44","female",95,136,32
+"Galicia",1,"35-44","male",39,14,NA
+"Galicia",1,"45-54","female",33,35,16
+"Galicia",1,"45-54","male",12,NA,NA
+"Galicia",1,"55-64","female",14,NA,NA
+"Galicia",2,"18-24","female",47,54,NA
+"Galicia",2,"25-34","female",117,170,29
+"Galicia",2,"25-34","male",17,15,11
+"Galicia",2,"35-44","female",85,65,29
+"Galicia",2,"35-44","male",54,NA,19
+"Galicia",2,"45-54","female",26,17,12
+"Galicia",2,"45-54","male",12,NA,NA
+"Galicia",3,"18-24","female",30,57,NA
+"Galicia",3,"25-34","female",171,201,37
+"Galicia",3,"25-34","male",25,13,NA
+"Galicia",3,"35-44","female",106,121,31
+"Galicia",3,"35-44","male",24,21,NA
+"Galicia",3,"45-54","female",41,18,NA
+"Galicia",3,"55-64","female",15,NA,NA
+"Galicia",4,"18-24","female",53,51,NA
+"Galicia",4,"18-24","male",12,NA,NA
+"Galicia",4,"25-34","female",164,184,20
+"Galicia",4,"25-34","male",46,26,NA
+"Galicia",4,"35-44","female",117,100,32
+"Galicia",4,"35-44","male",44,21,NA
+"Galicia",4,"45-54","female",60,35,30
+"Galicia",4,"45-54","male",17,NA,NA
+"Galicia",4,"55-64","female",23,NA,NA
+"Galicia",4,"55-64","male",15,NA,NA
+"Galicia",5,"18-24","female",49,43,NA
+"Galicia",5,"25-34","female",112,172,33
+"Galicia",5,"25-34","male",20,NA,NA
+"Galicia",5,"35-44","female",91,115,36
+"Galicia",5,"35-44","male",22,NA,NA
+"Galicia",5,"45-54","female",51,26,17
+"Galicia",6,"18-24","female",52,44,NA
+"Galicia",6,"25-34","female",125,134,31
+"Galicia",6,"25-34","male",26,15,NA
+"Galicia",6,"35-44","female",110,136,40
+"Galicia",6,"35-44","male",29,13,NA
+"Galicia",6,"45-54","female",63,29,11
+"Galicia",6,"45-54","male",20,NA,NA
+"Galicia",6,"55-64","female",12,NA,NA
+"Galicia",7,"18-24","female",36,56,NA
+"Galicia",7,"25-34","female",97,150,33
+"Galicia",7,"25-34","male",25,12,NA
+"Galicia",7,"35-44","female",95,138,46
+"Galicia",7,"35-44","male",29,16,NA
+"Galicia",7,"45-54","female",41,32,19
+"Galicia",7,"55-64","female",12,NA,NA
+"Galicia",8,"18-24","female",22,34,NA
+"Galicia",8,"25-34","female",77,130,23
+"Galicia",8,"25-34","male",NA,13,NA
+"Galicia",8,"35-44","female",79,71,24
+"Galicia",8,"35-44","male",14,NA,NA
+"Galicia",8,"45-54","female",23,27,NA
+"Galicia",8,"55-64","female",16,NA,NA
+"Galicia",9,"18-24","female",13,34,NA
+"Galicia",9,"25-34","female",63,107,NA
+"Galicia",9,"35-44","female",50,60,37
+"Galicia",9,"35-44","male",26,12,NA
+"Galicia",9,"45-54","female",20,13,NA
+"Galicia",9,"55-64","female",15,NA,NA
+"Galicia",10,"18-24","female",23,36,NA
+"Galicia",10,"25-34","female",65,97,16
+"Galicia",10,"25-34","male",16,NA,NA
+"Galicia",10,"35-44","female",46,99,19
+"Galicia",10,"35-44","male",18,19,NA
+"Galicia",10,"45-54","female",30,21,NA
+"Galicia",10,"55-64","female",15,NA,NA
+"Galicia",11,"18-24","female",21,37,NA
+"Galicia",11,"25-34","female",76,119,NA
+"Galicia",11,"25-34","male",11,NA,NA
+"Galicia",11,"35-44","female",55,87,11
+"Galicia",11,"35-44","male",15,NA,NA
+"Galicia",11,"45-54","female",38,15,22
+"Galicia",12,"18-24","female",24,38,NA
+"Galicia",12,"25-34","female",55,134,NA
+"Galicia",12,"25-34","male",22,23,NA
+"Galicia",12,"35-44","female",46,104,15
+"Galicia",12,"35-44","male",15,25,NA
+"Galicia",12,"45-54","female",26,21,NA
+"Galicia",12,"45-54","male",14,NA,NA
+"La Rioja",1,"25-34","female",18,25,NA
+"La Rioja",1,"35-44","female",19,14,NA
+"La Rioja",2,"25-34","female",24,15,NA
+"La Rioja",3,"25-34","female",21,22,NA
+"La Rioja",3,"35-44","female",15,18,NA
+"La Rioja",4,"25-34","female",12,23,NA
+"La Rioja",4,"35-44","female",17,15,NA
+"La Rioja",5,"25-34","female",NA,20,NA
+"La Rioja",5,"35-44","female",18,17,NA
+"La Rioja",6,"25-34","female",NA,26,NA
+"La Rioja",6,"35-44","female",22,18,NA
+"La Rioja",7,"25-34","female",24,35,NA
+"La Rioja",7,"35-44","female",15,NA,NA
+"La Rioja",8,"25-34","female",NA,45,NA
+"La Rioja",8,"35-44","female",19,15,NA
+"La Rioja",11,"25-34","female",NA,27,NA
+"La Rioja",12,"25-34","female",NA,23,NA
+"Murcia",1,"18-24","female",18,31,NA
+"Murcia",1,"25-34","female",36,87,NA
+"Murcia",1,"35-44","female",21,47,NA
+"Murcia",1,"45-54","female",NA,23,NA
+"Murcia",2,"18-24","female",13,28,NA
+"Murcia",2,"25-34","female",42,66,NA
+"Murcia",2,"25-34","male",13,NA,NA
+"Murcia",2,"35-44","female",11,30,NA
+"Murcia",2,"45-54","female",29,NA,NA
+"Murcia",3,"18-24","female",15,42,NA
+"Murcia",3,"25-34","female",44,80,NA
+"Murcia",3,"25-34","male",15,NA,NA
+"Murcia",3,"35-44","female",17,31,NA
+"Murcia",3,"45-54","female",12,NA,NA
+"Murcia",4,"18-24","female",13,32,NA
+"Murcia",4,"25-34","female",42,64,NA
+"Murcia",4,"25-34","male",30,11,NA
+"Murcia",4,"35-44","female",31,40,NA
+"Murcia",4,"35-44","male",28,NA,NA
+"Murcia",4,"45-54","female",21,NA,NA
+"Murcia",4,"45-54","male",17,NA,NA
+"Murcia",5,"18-24","female",19,65,NA
+"Murcia",5,"25-34","female",32,54,14
+"Murcia",5,"35-44","female",35,47,21
+"Murcia",5,"35-44","male",19,NA,NA
+"Murcia",5,"45-54","female",11,NA,NA
+"Murcia",6,"18-24","female",33,44,NA
+"Murcia",6,"25-34","female",30,63,12
+"Murcia",6,"35-44","female",41,23,NA
+"Murcia",6,"45-54","female",17,14,NA
+"Murcia",7,"18-24","female",NA,33,NA
+"Murcia",7,"25-34","female",45,78,NA
+"Murcia",7,"35-44","female",29,46,NA
+"Murcia",7,"35-44","male",14,NA,NA
+"Murcia",7,"45-54","female",38,24,NA
+"Murcia",8,"18-24","female",NA,37,NA
+"Murcia",8,"25-34","female",20,59,NA
+"Murcia",8,"35-44","female",NA,48,NA
+"Murcia",8,"45-54","female",NA,15,NA
+"Murcia",9,"18-24","female",NA,49,NA
+"Murcia",9,"25-34","female",NA,45,NA
+"Murcia",9,"35-44","female",36,27,NA
+"Murcia",10,"18-24","female",NA,12,NA
+"Murcia",10,"25-34","female",NA,70,NA
+"Murcia",10,"35-44","female",20,44,NA
+"Murcia",11,"18-24","female",NA,11,NA
+"Murcia",11,"25-34","female",24,46,NA
+"Murcia",11,"35-44","female",25,42,NA
+"Murcia",12,"18-24","female",NA,15,NA
+"Murcia",12,"25-34","female",16,49,NA
+"Murcia",12,"35-44","female",17,42,NA
+"Murcia",12,"45-54","female",13,NA,NA
+"Navarre",1,"25-34","female",19,34,22
+"Navarre",1,"35-44","female",27,36,13
+"Navarre",1,"45-54","female",19,NA,NA
+"Navarre",2,"25-34","female",31,55,NA
+"Navarre",2,"35-44","female",32,17,NA
+"Navarre",2,"45-54","female",10,NA,NA
+"Navarre",3,"18-24","female",NA,11,NA
+"Navarre",3,"25-34","female",21,32,NA
+"Navarre",3,"35-44","female",37,19,NA
+"Navarre",3,"45-54","female",15,NA,NA
+"Navarre",4,"18-24","female",NA,10,NA
+"Navarre",4,"25-34","female",15,33,NA
+"Navarre",4,"25-34","male",12,NA,NA
+"Navarre",4,"35-44","female",26,32,NA
+"Navarre",4,"35-44","male",18,NA,NA
+"Navarre",4,"45-54","female",22,NA,NA
+"Navarre",5,"25-34","female",NA,31,17
+"Navarre",5,"35-44","female",33,47,12
+"Navarre",5,"45-54","female",14,NA,NA
+"Navarre",5,"55-64","female",20,NA,NA
+"Navarre",6,"18-24","female",26,NA,NA
+"Navarre",6,"25-34","female",21,29,NA
+"Navarre",6,"35-44","female",40,40,35
+"Navarre",6,"45-54","female",30,NA,NA
+"Navarre",7,"25-34","female",31,32,NA
+"Navarre",7,"35-44","female",43,42,NA
+"Navarre",7,"45-54","female",14,NA,NA
+"Navarre",8,"25-34","female",21,38,NA
+"Navarre",8,"35-44","female",16,33,NA
+"Navarre",8,"45-54","female",12,NA,NA
+"Navarre",9,"25-34","female",NA,14,NA
+"Navarre",9,"35-44","female",11,23,NA
+"Navarre",10,"18-24","female",NA,15,NA
+"Navarre",10,"25-34","female",NA,24,NA
+"Navarre",10,"35-44","female",13,23,NA
+"Navarre",11,"25-34","female",NA,22,NA
+"Navarre",11,"35-44","female",13,20,NA
+"Navarre",11,"45-54","female",15,NA,NA
+"Navarre",12,"18-24","female",16,NA,NA
+"Navarre",12,"25-34","female",NA,24,NA
+"Navarre",12,"35-44","female",20,17,NA
+"Region of Murcia",1,"25-34","female",NA,15,NA
+"Region of Murcia",5,"35-44","female",NA,18,NA
+"Region of Murcia",7,"25-34","female",NA,11,NA
+"Region of Murcia",7,"35-44","female",NA,15,NA
+"Region of Murcia",8,"25-34","female",NA,13,NA
+"Region of Murcia",8,"35-44","female",NA,18,NA
+"Region of Murcia",11,"25-34","female",NA,14,NA
+"Valencian Community",1,"18-24","female",78,95,NA
+"Valencian Community",1,"18-24","male",16,NA,NA
+"Valencian Community",1,"25-34","female",143,198,47
+"Valencian Community",1,"25-34","male",55,28,12
+"Valencian Community",1,"35-44","female",113,145,43
+"Valencian Community",1,"35-44","male",58,34,17
+"Valencian Community",1,"45-54","female",78,53,30
+"Valencian Community",1,"45-54","male",36,NA,NA
+"Valencian Community",1,"55-64","female",31,22,NA
+"Valencian Community",1,"55-64","male",17,NA,NA
+"Valencian Community",2,"18-24","female",69,79,NA
+"Valencian Community",2,"25-34","female",151,256,33
+"Valencian Community",2,"25-34","male",41,23,NA
+"Valencian Community",2,"35-44","female",91,220,28
+"Valencian Community",2,"35-44","male",50,23,NA
+"Valencian Community",2,"45-54","female",89,62,19
+"Valencian Community",2,"45-54","male",24,NA,NA
+"Valencian Community",2,"55-64","female",12,NA,NA
+"Valencian Community",2,"55-64","male",16,NA,NA
+"Valencian Community",3,"18-24","female",87,97,NA
+"Valencian Community",3,"18-24","male",NA,18,NA
+"Valencian Community",3,"25-34","female",165,339,55
+"Valencian Community",3,"25-34","male",42,43,NA
+"Valencian Community",3,"35-44","female",98,216,58
+"Valencian Community",3,"35-44","male",45,32,NA
+"Valencian Community",3,"45-54","female",72,77,26
+"Valencian Community",3,"45-54","male",19,12,NA
+"Valencian Community",3,"55-64","female",23,NA,NA
+"Valencian Community",3,"55-64","male",13,NA,NA
+"Valencian Community",4,"18-24","female",82,127,NA
+"Valencian Community",4,"18-24","male",32,13,NA
+"Valencian Community",4,"25-34","female",202,313,49
+"Valencian Community",4,"25-34","male",137,59,21
+"Valencian Community",4,"35-44","female",192,248,50
+"Valencian Community",4,"35-44","male",189,78,22
+"Valencian Community",4,"45-54","female",96,87,22
+"Valencian Community",4,"45-54","male",93,21,NA
+"Valencian Community",4,"55-64","female",67,26,NA
+"Valencian Community",4,"55-64","male",31,NA,NA
+"Valencian Community",5,"18-24","female",69,125,13
+"Valencian Community",5,"18-24","male",14,NA,NA
+"Valencian Community",5,"25-34","female",165,279,40
+"Valencian Community",5,"25-34","male",72,30,NA
+"Valencian Community",5,"35-44","female",119,205,54
+"Valencian Community",5,"35-44","male",81,32,NA
+"Valencian Community",5,"45-54","female",98,54,40
+"Valencian Community",5,"45-54","male",24,NA,NA
+"Valencian Community",5,"55-64","female",32,NA,NA
+"Valencian Community",5,"55-64","male",15,NA,NA
+"Valencian Community",6,"18-24","female",85,93,20
+"Valencian Community",6,"18-24","male",15,NA,NA
+"Valencian Community",6,"25-34","female",148,277,38
+"Valencian Community",6,"25-34","male",47,24,NA
+"Valencian Community",6,"35-44","female",169,222,65
+"Valencian Community",6,"35-44","male",40,29,NA
+"Valencian Community",6,"45-54","female",49,62,22
+"Valencian Community",6,"45-54","male",16,NA,NA
+"Valencian Community",6,"55-64","female",26,14,NA
+"Valencian Community",7,"18-24","female",47,128,17
+"Valencian Community",7,"18-24","male",14,16,NA
+"Valencian Community",7,"25-34","female",164,376,34
+"Valencian Community",7,"25-34","male",54,35,NA
+"Valencian Community",7,"35-44","female",170,259,84
+"Valencian Community",7,"35-44","male",42,31,15
+"Valencian Community",7,"45-54","female",69,69,41
+"Valencian Community",7,"55-64","female",14,27,NA
+"Valencian Community",8,"18-24","female",31,109,NA
+"Valencian Community",8,"18-24","male",12,10,NA
+"Valencian Community",8,"25-34","female",99,286,34
+"Valencian Community",8,"25-34","male",29,14,NA
+"Valencian Community",8,"35-44","female",98,297,44
+"Valencian Community",8,"35-44","male",30,22,13
+"Valencian Community",8,"45-54","female",49,80,NA
+"Valencian Community",8,"45-54","male",21,NA,NA
+"Valencian Community",8,"55-64","female",15,30,NA
+"Valencian Community",9,"18-24","female",48,88,NA
+"Valencian Community",9,"25-34","female",92,206,19
+"Valencian Community",9,"25-34","male",35,26,NA
+"Valencian Community",9,"35-44","female",73,184,39
+"Valencian Community",9,"35-44","male",33,38,NA
+"Valencian Community",9,"45-54","female",35,40,19
+"Valencian Community",9,"45-54","male",16,NA,NA
+"Valencian Community",9,"55-64","female",15,NA,NA
+"Valencian Community",10,"18-24","female",28,78,12
+"Valencian Community",10,"25-34","female",81,238,19
+"Valencian Community",10,"25-34","male",89,39,NA
+"Valencian Community",10,"35-44","female",95,185,24
+"Valencian Community",10,"35-44","male",36,21,NA
+"Valencian Community",10,"45-54","female",25,55,19
+"Valencian Community",10,"45-54","male",20,18,NA
+"Valencian Community",10,"55-64","female",21,19,NA
+"Valencian Community",10,"55-64","male",12,12,NA
+"Valencian Community",11,"18-24","female",43,98,NA
+"Valencian Community",11,"25-34","female",132,288,18
+"Valencian Community",11,"25-34","male",80,31,NA
+"Valencian Community",11,"35-44","female",127,210,35
+"Valencian Community",11,"35-44","male",71,28,NA
+"Valencian Community",11,"45-54","female",39,84,17
+"Valencian Community",11,"45-54","male",18,19,NA
+"Valencian Community",11,"55-64","female",NA,20,NA
+"Valencian Community",12,"18-24","female",54,99,NA
+"Valencian Community",12,"18-24","male",20,NA,NA
+"Valencian Community",12,"25-34","female",100,205,17
+"Valencian Community",12,"25-34","male",76,47,NA
+"Valencian Community",12,"35-44","female",79,233,56
+"Valencian Community",12,"35-44","male",61,43,NA
+"Valencian Community",12,"45-54","female",45,89,20
+"Valencian Community",12,"45-54","male",31,NA,NA
+"Valencian Community",12,"55-64","female",17,25,NA
+"Valencian Community",12,"55-64","male",17,NA,NA
+"Valencian Community",12,"65+","female",11,NA,NA
