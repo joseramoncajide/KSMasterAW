@@ -49,7 +49,7 @@ summary(Cars93$Cylinders)
 # importación -------------------------------------------------------------
 
 datos <- read.table("data/Weights.txt") #importando datos
-datos <- read.table("data/Weights.txt", header = T, sep = ".")
+datos <- read.table("data/Weights.txt", header = TRUE, sep = ".")
 datos
 
 
@@ -74,11 +74,13 @@ plot(sesiones$mobile, type = 'l')
 plot(sesiones$desktop, type = 'l')
 sesiones[40:50,1] <- NA
 sesiones[50:60,2] <- NA
+
 plot(sesiones$mobile, type = 'l')
 plot(sesiones$desktop, type = 'l')
 par(mfrow = c(1,1))
 
 #Rellenando datos
+install.packages('xts')
 require(xts)
 #Método 1
 ?na.locf
@@ -107,7 +109,7 @@ boxplot(sessions.df$sessions) #vemos que hay valores extremos
 #localizamos los valores extremos. Si sólo es uno:
 max(sessions.df$sessions)
 #si son varios
-outliers = boxplot(sessions.df$sessions, plot=FALSE)$out
+outliers <- boxplot(sessions.df$sessions, plot=FALSE)$out
 outliers
 #método base
 sessions.df[sessions.df$sessions %in% outliers,]
@@ -148,3 +150,5 @@ tmp <- html_nodes(tmp, "table")
 length(tmp)
 provincias <- html_table(tmp[2])
 provincias <- as.data.frame(provincias)
+
+?write.csv()

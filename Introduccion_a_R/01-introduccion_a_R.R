@@ -84,7 +84,7 @@ help(sqrt)
 example(sqrt)
 sqrt(12)
 
-#install.packages("datasets")
+#install.packages("datasets") #depende de la versión de R
 data()
 data(cars)
 ?cars
@@ -118,12 +118,12 @@ factorial(4)
 
 
 #### EJERCICIO
-#### Calcular la longitud de una moneda de 1€ sabiendo que su diametro es 23.25 mm
-#### Fórmula: longitud = pi * radio2 
+#### Calcular el área de una moneda de 1€ sabiendo que su diametro es 23.25 mm
+#### Fórmula: área = pi * radio2 
 
 radio <- ...
-longitud <- ...
-longitud
+area <- ...
+area
 
 
 
@@ -144,19 +144,19 @@ suma <- function(a,b) {
 suma(2,6)
 
 #### EJERCICIO
-# Crea una función "longitud.moneda" a la que facilitándole un diámentro 
-# calcule la longitud de la circunferencia de cualquier moneda 
+# Crea una función "area.moneda" a la que facilitándole un diámentro 
+# calcule el área de la misma
 
-longitud.moneda <- function () {
+area.moneda <- function () {
   #calcula el radio:
   radio <- 
-  #calcula la longitud:
-  longitud <- 
-  return(longitud) 
+    #calcula la longitud:
+    area <- 
+    return(area) 
 }
 
 #Comprueba que la función devuelve correctamente el resultado ejecutado
-longitud.moneda(23.25)
+area.moneda(23.25)
 
 
 
@@ -269,7 +269,7 @@ apply(ciudades.mat, 2, FUN=sd)
 #Un adelanto
 barplot(apply(ciudades.mat, 2, FUN=sd))
 
-#Existe correlación entre algunos países
+#Existe correlación entre algunas ciudades
 cor(ciudades.mat)
 
 heatmap(cor(ciudades.mat))
@@ -285,16 +285,16 @@ summary(t(ciudades.mat))
 
 
 #### EJERCICIO
-# Crea una matriz 'monedas.mat' con los diámetros de varias monedas y calcula para todas ellas su longitud aplicando la función 'longitud.moneda' creada anteriormente a toda la matriz
+# Crea una matriz 'monedas.mat' con los diámetros de varias monedas y calcula para todas ellas sus áreas aplicando la función 'area.moneda' creada anteriormente a toda la matriz
 
 monedas.mat <- matrix(...)
 
 #Dale un nombre a cada columna
 colnames(monedas.mat) <- ...
 
-longitudes <- apply(...)
+area <- apply(...)
 
-# Dibuja un digrama de barras con las longitudes obtenedidas
+# Dibuja un digrama de barras con las áreas obtenedidas
 
 ...
 
@@ -392,5 +392,4 @@ plot(x=Weight, y=Price)
 
 #Ejecutar para dejar la configuración inicial:
 par(mfrow=c(1,1))
-
 

@@ -5,6 +5,8 @@
 # Caso práctico de modelado con R y Google Analytics 
 #############################################################################
 
+#dev.off()
+
 #install.packages("RGA")
 library("RGA")
 library("dplyr")
@@ -14,8 +16,19 @@ dir <- "~/Documents/GitHub/KSMasterAW-R/"
 setwd(dir)
 
 #Conectamos a la api de Google Analytics
-authorize(new.auth = TRUE)
+authorize()
+authorize(username = "kschool.alumnos@gmail.com")
 
+ga_profiles.df <- list_profiles()
+ga_profiles.df <- tbl_df(ga_profiles.df)
+class(ga_profiles.df)
+id <- ga_profiles.df[grep("http://www.kschool.com", ga_profiles.df$website.url), "id"]
+first.date <- firstdate('46728973')
+goals.df <- list_goals() 
+goals.df <- tbl_df(goals.df)
+names <- as.vector(t(goals.df[grep("46728973", goals.df$profile.id), "name"]))
+class(names)
+names(ga.df) <- c('fecha', 'sesiones', names)
 
 #Extraemos de Google Analytics los siguientes datos desde 2012-01-01 hasta 2015-12-31: sesiones, cumplimientos de todos los objetivos (# descargas de programas, # formularios de contacto enviados y # de reservas de plaza realizadas), dimensionadas por fecha y segmentadas para sesiones sin rebote.
 
@@ -91,8 +104,12 @@ corrplot(correlation_matrix, method="number", type="lower", order="hclust")
 corrplot(correlation_matrix, method="circle")
 corrplot(correlation_matrix, method="pie")
 
+mean(goals.df$descargas)
+
 #visualizamos los datos de sesiones y descargas
+#dev.off() #FIX
 plot(goals.df$sesiones, goals.df$descargas)
+abline(h=mean(goals.df$descargas), col='green')
 qplot(goals.df$sesiones, goals.df$descargas) 
 
 #vamos a modelar los datos
@@ -117,7 +134,16 @@ resid(modelo)
 #podemos visualizar los errores del modelo y ver si siguen algún comportamiento no aleatorio
 plot(resid(modelo))
 
+####NUEVO
+fitted(modelo)
+modelo$fitted.values
+plot(goals.df$descargas, modelo$fitted, type = 'p', col='blue')
+
+
+training_index <- 
+
 #visualizamos el modelo
+
 plot(goals.df$sesiones, goals.df$descargas)
 abline(modelo, col='red')
 
@@ -131,7 +157,7 @@ prediccion <- forecast(modelo, newdata=data.frame(sesiones=c(12,311)))
 prediccion
 plot(prediccion, xlab="Sesiones", ylab="Descargas")
 
-
+fitted(modelo)
 
 
 # time series -------------------------------------------------------------

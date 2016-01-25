@@ -146,10 +146,10 @@ suma <- function(a,b) {
 suma(2,6)
 
 #### EJERCICIO
-# Crea una función "longitud.moneda" a la que facilitándole un diámentro 
+# Crea una función "area.moneda" a la que facilitándole un diámentro 
 # calcule la longitud de la circunferencia de cualquier moneda 
 
-longitud.moneda <- function () {
+area.moneda <- function () {
   #calcula el radio:
   radio <- 
   #calcula la longitud:
@@ -158,19 +158,19 @@ longitud.moneda <- function () {
 }
 
 #Comprueba que la función devuelve correctamente el resultado ejecutado
-longitud.moneda(23.25)
+area.moneda(23.25)
 
 
 # sol ---------------------------------------------------------------------
 
-longitud.moneda <- function (diametro) {
+area.moneda <- function (diametro) {
      radio <- diametro / 2;
      longitud <- pi * radio^2;
      return(longitud) 
      #print(paste('La longitud es de:',round(longitud,2), 'mm.'))
 }
 
-longitud.moneda(23.25)
+area.moneda(23.25)
 
 
 ## VECTORES
@@ -279,7 +279,7 @@ apply(ciudades.mat, 2, FUN=sd)
 #Un adelanto
 barplot(apply(ciudades.mat, 2, FUN=sd))
 
-#Existe correlación entre algunos países
+#Existe correlación entre algunos ciudades
 cor(ciudades.mat)
 
 heatmap(cor(ciudades.mat))
@@ -295,16 +295,16 @@ summary(t(ciudades.mat))
 
 
 #### EJERCICIO
-# Crea una matriz 'monedas.mat' con los diámetros de varias monedas y calcula para todas ellas su longitud aplicando la función 'longitud.moneda' creada anteriormente a toda la matriz
+# Crea una matriz 'monedas.mat' con los diámetros de varias monedas y calcula para todas ellas sus áreas aplicando la función 'area.moneda' creada anteriormente a toda la matriz
 
 monedas.mat <- matrix(...)
 
 #Dale un nombre a cada columna
 colnames(monedas.mat) <- ...
 
-longitudes <- apply(...)
+areas <- apply(...)
 
-# Dibuja un digrama de barras con las longitudes obtenedidas
+# Dibuja un digrama de barras con las áreas obtenedidas
 
 ...
 
@@ -314,11 +314,11 @@ monedas.mat <- matrix(c(16.25, 19.75, 22.25, 24.25, 23.25, 25.75),ncol = 6)
 
 colnames(monedas.mat)<-c("1 cent.","10 cent.","20 cent.", "50 cent." , "1 euro", "2 euros")
 
-longitudes <- apply(monedas.mat, 2, FUN=longitud.moneda)
+areas <- apply(monedas.mat, 2, FUN=area.moneda)
 
-# Dibuja un digrama de barras con las longitudes de cada moneda
+# Dibuja un digrama de barras con las áreas de cada moneda
 
-barplot(longitudes)
+barplot(areas)
 
 
 
