@@ -9,9 +9,21 @@ install.packages("RGA")
 # Lo cargamos en nuestro entorno
 library("RGA")
 
+
 # Nos autorizamos en Google con la cuenta de Alumnos de Kschool
+
+# Opción 1: Debería aparecer una ventana de login de Google. Sigue las intrucciones y atentícate con la cuenta kschool.alumnos@gmail.com
 authorize()
+
+# Opción 2: Facilita en 'client.id' el 'ID de cliente' y 'client.secret' el 'Secreto de cliente', del proyecto "Clase R - jrcajide" que encontrarás a continuación. (Recuerda que deberás autenticarte en Google con la cuenta kschool.alumnos@gmail.com si no lo has hecho ya)
+browseURL('https://console.developers.google.com/apis/credentials/oauthclient/545114162637-fc3kfgdmnlkq0t5v1qdnvl4b0v0lcje4.apps.googleusercontent.com?project=api-project-545114162637&hl=ES&authuser=1')
+
+authorize(client.id = '', client.secret = '')
+
+# Opción 3
 authorize(username = "kschool.alumnos@gmail.com")
+
+
 
 # Especificamos la vista de GA a la que nos vamos a conectar
 ga.profileId <- '46728973'
